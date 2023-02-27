@@ -49,7 +49,7 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
   * SupportVectorRegression
 
 #### Classificação:
-  - DecisionTree
+  * DecisionTree
   * SVCLinear (Máquinas de Vetores de Suporte Linear)
   * SCV (Máquinas de Vetores de Suporte)
   * Algoritmo dummy para acurácia baseline
@@ -68,9 +68,16 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
 * Keras
 * Tensorflow
 
-# Tuning hiperparâmetros
+# Tuning de hiperparâmetros e otimização de algoritmos
 * Validação cruzada
 * RandomSearchCV
+* 
+📚 Dica de livros: 
+ 1.
+ 2.
+
+💡 Dica de curso: 
+1.
 
 # Data Wrangling
 * Extração de dados de sites, APIs, banco de dados.
@@ -79,6 +86,16 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
 * Transformação de dados
 * Conhecimentos em ETL
 
+
 # Visualização de Dados
 * Bibliotecas: Matplotlib, Seaborn, Plotly, ggplot2, ggplot.
 * Ferramentas de Dataviz: Power BI e Google Data Studio.
+📚 Dica de livros: 
+ 1.
+ 2. 
+
+💡 Dica de curso: 
+1.
+
+ 4.
+ 5.
