@@ -4,13 +4,13 @@
 
 Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de ciência de dados
 
-### Teoria Básica Fundamental
+# Teoria Básica Fundamental
 * Probabilidade e estatística
 * Álgebra Linear
 * Programação em Python
 * Programação em R
 
-### Estatística Básica
+# Estatística Básica
 * Estatística descritiva (média, mediana, desvio padrão, variância)
 * Análise exploratória de dados
 * Histograma, percentis e outliers
@@ -22,13 +22,13 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
 * Teste do Qui Quadrado
 * Correlação entre variáveis
 
-### Estatística Básica
+# Estatística Básica
 * Jupyter Notebook
 * RStudio
 * GitHub
 * Metodologias Ágeis : Scrum e Kanban
 
-### Bibliotecas para análise de dados
+# Bibliotecas para análise de dados
 * Numpy
 * Scipy
 * Pandas
@@ -36,14 +36,13 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
 * Scikit Learn
 * Seaborn
 
-### Banco de Dados
+# Banco de Dados
 * SQL
 * Google Big Query (GCP)
 * Spark
 * S3 (AWS)
 
-### Machine Learning 
-* Algoritmos de Aprendizado Supervisionado e Não Supervisionado:
+# Machine Learning 
 #### Regressão Linear:
   * LinearRegression
   * RandomForestRegressor
@@ -64,22 +63,22 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
 * Métricas de performance de algoritmos: RMS, acurácia, matriz de confução, curva ROC, AUC, etc.
 * Técnicas de Storytelling com dados
 
-### Deep Learning
+# Deep Learning
 * Pytorch
 * Keras
 * Tensorflow
 
-### Tuning hiperparâmetros
+# Tuning hiperparâmetros
 * Validação cruzada
 * RandomSearchCV
 
-### Data Wrangling
+# Data Wrangling
 * Extração de dados de sites, APIs, banco de dados.
 * Técnicas para lidar com valores ausentes.
 * Técnicas para balanceamento de dados
 * Transformação de dados
 * Conhecimentos em ETL
 
-### Visualização de Dados
+# Visualização de Dados
 * Bibliotecas: Matplotlib, Seaborn, Plotly, ggplot2, ggplot.
 * Ferramentas de Dataviz: Power BI e Google Data Studio.
