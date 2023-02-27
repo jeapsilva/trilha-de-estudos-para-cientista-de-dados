@@ -22,7 +22,7 @@ Aqui insiro um plano de estudo recomendado para quem deseja iniciar na área de 
 * Teste do Qui Quadrado
 * Correlação entre variáveis
 
-# Estatística Básica
+# Ferramentas e Metodologia de desenvolvimento
 * Jupyter Notebook
 * RStudio
 * GitHub
